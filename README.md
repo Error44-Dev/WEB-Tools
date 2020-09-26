@@ -1,2 +1,2 @@
-# webtools
+# WEB TOOLS
 small websites
